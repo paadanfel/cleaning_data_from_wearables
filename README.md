@@ -8,3 +8,5 @@ output: html_document
 This repo contains a codebook `CodeBook.md` which explains the process used to clean the [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 It also include `run_analysis.R` where all tranformations where done.
+
+The final output has also been included as `final.txt`.

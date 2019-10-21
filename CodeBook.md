@@ -18,4 +18,4 @@ This a code book that describes the variables, the data, and any transformations
 
 5. Variable names were also renamed to be more descriptive.
 
-6. Finally, a final dataset was created to show the average for each aactivity and each subject. The resulting `final` has 180 observations and 88 variables.
+6. Finally, a final dataset was created to show the average for each aactivity and each subject. The resulting `final` has 180 observations and 88 variables. This was exported as `final.txt`.
