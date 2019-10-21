@@ -66,5 +66,5 @@ names(data) <- all_names
 final <- data %>%
   group_by(Subject, Activity) %>%
   summarise_all(funs(mean)) %>%
-  write.table("final.txt")
+  write.table("final.txt", row.name=FALSE)
 
